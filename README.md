@@ -1,13 +1,5 @@
 #  AI-Powered BMI Calculator & Health Assistant
 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.3.0-000000?style=flat-square\&logo=flask\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_AI-Gemini-4285F4?style=flat-square\&logo=google\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-DB-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PyMySQL](https://img.shields.io/badge/PyMySQL-1.0.3-green?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
 ---
 
